@@ -1,6 +1,10 @@
 body {
 	font-family: 'Smokum', cursive;
 	font-size: 15px;
+	background-image:url(https://cdn.pixabay.com/photo/2015/04/25/23/32/wormhole-739872_1280.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
 }
 
 .container {
